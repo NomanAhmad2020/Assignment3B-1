@@ -6,4 +6,4 @@ Please Set the following in truffle-config.js
 1. mnemonic in truffle-config.js file. <br>
 2. infura key in truffle-config.js file. <br>
 3. ropsten account in truffle-.js file. <br>
-4. 
+ 
